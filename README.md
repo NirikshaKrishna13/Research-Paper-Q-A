@@ -75,4 +75,5 @@ streamlit run app.py
 ---
 
 ## 📜 License
-MIT License
+
+This project is intended for educational and research purposes.
